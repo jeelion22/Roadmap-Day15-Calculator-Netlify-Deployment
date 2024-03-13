@@ -21,7 +21,7 @@ This calculator's operational limit is upto 14 digits, beyond the limit it will 
 
 ## Images
 
-The below images tell about how the homepage looks like and shows its responsivenes
+The below image tell about how the homepage looks like.
 ![Homepage](img.png)
 
 
